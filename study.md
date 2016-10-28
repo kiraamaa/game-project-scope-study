@@ -15,6 +15,13 @@ class.
 Submit detailed answers to the following in this file via a pull request:
 
 -   A wireframe of what your game project will look like.
+(./images/Sign-Up-Form.png)
+(./images/Log-In-Form.png)
+(./images/Game-Board.png)
+(./images/Win-Display.png)
+
+
+
 -   The data structure you plan to use.
 -   How you will take the markup of the game board and represent it in JS
 -   How you plan to approach this project.
